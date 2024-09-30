@@ -1,0 +1,2 @@
+chardet==5.2.0
+tortoise-orm==0.21.6
